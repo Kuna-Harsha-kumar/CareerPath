@@ -1,12 +1,12 @@
 package com.example.student.service;
 
+import java.util.Random;
+import java.util.concurrent.ConcurrentHashMap;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.stereotype.Service;
-
-import java.util.Random;
-import java.util.concurrent.ConcurrentHashMap;
 
 @Service
 public class EmailService {
@@ -25,6 +25,7 @@ public class EmailService {
         message.setSubject("Your OTP Code");
         message.setText("Your OTP code is: " + otp);
 
+        System.out.println(message);
         mailSender.send(message);
         return otp;
     }

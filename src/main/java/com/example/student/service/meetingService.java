@@ -66,13 +66,13 @@ public class meetingService {
     }
 
     public void deleteMeeting(int meeting_id){
-        System.out.println("deleting servicce");
+    
         meetingMapper.deleteMeeting(meeting_id);
     }
 
     public void updateMeeting(int meeting_id,String time,String description){
-        System.out.println("updating servicce");
-        meetingMapper.deleteMeeting(meeting_id);
+        System.out.println(meeting_id);
+        meetingMapper.updateMeeting(meeting_id, time, description);
     }
     
      public Map<String,mentorAvailability> createMeetingByMentor(String day,Time time){

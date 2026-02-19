@@ -79,11 +79,11 @@ public class MeetingController {
 
         @PostMapping("/updateMeeting")
         public ResponseEntity<?> updateExistingMeeting(@RequestParam int meeting_id,@RequestParam String time,@RequestParam String description){
+            System.out.println(time);
             System.out.println(meeting_id);
-            System.out.println("coming into this methoid");
             meetingService.updateMeeting(meeting_id, time, description);
             Map<String,String> successResponse = new HashMap<>(); 
-            successResponse.put("Meeting has ", "been deleted");
+            successResponse.put("Meeting has ", "been updated");
             return ResponseEntity.status(200).body(successResponse);
             }
 

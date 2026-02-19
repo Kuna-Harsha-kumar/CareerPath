@@ -35,8 +35,9 @@ public interface MeetingMapper {
         @Update("update student_meetings set meeting_status='Deactive' where meeting_id=#{meeting_id}")
         void deleteMeeting(int meeting_id);
 
-        @Update("update student_meetings set time=#{time} and description=#{description} where meeting_id=#{meeting_id}")
+        @Update("UPDATE student_meetings SET time = #{time}, description = #{description} WHERE meeting_id = #{meeting_id}")
         void updateMeeting(int meeting_id,String time,String description);
+
 
         @Insert("insert into student_meetings(meeting_id,counselor_id,student_id,time,description,created_at,meeting_status,counselor_name) " +
         "values(#{meeting_id},#{counselor_id},#{student_id},#{time},#{description}, CURRENT_TIMESTAMP,#{meeting_status},#{counselor_name})")
