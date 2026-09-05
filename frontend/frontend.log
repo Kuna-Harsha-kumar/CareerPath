@@ -1,0 +1,116 @@
+
+> career_growth_frontend@0.0.0 dev
+> vite
+
+
+  VITE v5.4.21  ready in 387 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+1:37:53 PM [vite] hmr update /src/App.jsx, /src/tailwind.css
+1:37:58 PM [vite] hmr update /src/pages/CounselorList.jsx, /src/tailwind.css
+1:38:08 PM [vite] hmr update /src/App.jsx, /src/tailwind.css
+1:38:08 PM [vite] hmr update /src/pages/CounselorList.jsx, /src/tailwind.css
+1:38:08 PM [vite] hmr update /src/pages/CounselorDetails.jsx, /src/tailwind.css
+1:38:14 PM [vite] hmr update /src/pages/CounselorDetails.jsx, /src/tailwind.css
+1:38:21 PM [vite] hmr update /src/pages/CounselorDetails.jsx, /src/tailwind.css
+1:38:28 PM [vite] hmr update /src/pages/ScheduleMeeting.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/App.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/Appointments.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/CounselorDetails.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/CounselorList.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/CounselorMeetingCreate.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/CounselorMeetings.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/CounselorProfile.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/CounselorStudents.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/EditStudentProfile.jsx, /src/tailwind.css
+8:05:36 PM [vite] hmr update /src/pages/ScheduleMeeting.jsx, /src/tailwind.css
+8:07:59 PM [vite] page reload cypress/e2e/counselor_dashboard.cy.js
+8:08:08 PM [vite] page reload cypress/e2e/counselor_dashboard.cy.js
+8:08:15 PM [vite] page reload cypress/e2e/counselor_dashboard.cy.js
+8:09:54 PM [vite] page reload cypress/e2e/counselor_dashboard.cy.js
+8:10:19 PM [vite] page reload cypress/e2e/counselor_auth_v2.cy.js
+8:10:19 PM [vite] page reload cypress/e2e/counselor_dashboard.cy.js
+1:44:32 AM [vite] page reload cypress/e2e/student_auth_v2.cy.js
+1:44:41 AM [vite] page reload cypress/e2e/payment.cy.js
+1:45:33 AM [vite] page reload cypress/e2e/student_auth_v2.cy.js
+1:46:37 AM [vite] page reload cypress/e2e/student_auth_v2.cy.js
+4:27:40 AM [vite] hmr update /src/pages/StudentProfile.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/Password.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorMeetings.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/StudentSignup.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorPasswordReset.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorMeetingCreate.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/Appointments.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorList.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorOTPvalidation.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorLogin.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/ResumeUpload.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/EditStudentProfile.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorDetails.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/PasswordReset.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/ModifyMeeting.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorSignup.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/StudentProfile.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/StudentLogin.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorForgetPassword.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/LandingPage.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/ScheduleMeeting.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/Payment.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorProfile.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/CounselorStudents.jsx, /src/tailwind.css
+4:27:52 AM [vite] hmr update /src/pages/OTPValidation.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/Password.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorMeetings.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/StudentSignup.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorPasswordReset.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorMeetingCreate.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/Appointments.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorList.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorOTPvalidation.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorLogin.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/ResumeUpload.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/EditStudentProfile.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorDetails.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorForgetPassword.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/PasswordReset.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/ModifyMeeting.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorSignup.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/StudentProfile.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/StudentLogin.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/LandingPage.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/ScheduleMeeting.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/Payment.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorProfile.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/CounselorStudents.jsx, /src/tailwind.css
+4:28:09 AM [vite] hmr update /src/pages/OTPValidation.jsx, /src/tailwind.css
+4:34:34 AM [vite] page reload cypress/e2e/payment.cy.js
+4:34:34 AM [vite] page reload cypress/e2e/student_auth_v2.cy.js
+4:34:34 AM [vite] page reload cypress/e2e/student_dashboard.cy.js
+4:34:34 AM [vite] hmr update /src/pages/Appointments.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorDetails.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorForgetPassword.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorList.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorLogin.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorMeetingCreate.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorMeetings.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorOTPvalidation.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorPasswordReset.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorProfile.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorSignup.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/CounselorStudents.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/EditStudentProfile.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/ModifyMeeting.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/OTPValidation.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/Password.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/PasswordReset.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/Payment.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/ResumeUpload.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/ScheduleMeeting.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/StudentLogin.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/StudentProfile.jsx, /src/tailwind.css
+4:34:34 AM [vite] hmr update /src/pages/StudentSignup.jsx, /src/tailwind.css
+8:10:30 AM [vite] vite.config.js changed, restarting server...
+8:10:30 AM [vite] server restarted.
+8:12:48 AM [vite] vite.config.js changed, restarting server...
+8:12:48 AM [vite] server restarted.
